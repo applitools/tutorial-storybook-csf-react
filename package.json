@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "^4.0.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -25,10 +25,10 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@applitools/eyes-storybook": "^3.16.5",
-    "@storybook/react": "^6.1.15",
+    "@applitools/eyes-storybook": "^3.20.2",
+    "@storybook/react": "^6.2.1",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
-    "core-js": "^3.8.3"
+    "core-js": "^3.10.0"
   }
 }
