@@ -25,10 +25,10 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@applitools/eyes-storybook": "^3.21.0",
+    "@applitools/eyes-storybook": "^3.22.1",
     "@storybook/react": "^6.2.9",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
-    "core-js": "^3.11.1"
+    "core-js": "^3.11.2"
   }
 }
