@@ -32,7 +32,8 @@ DynamicText.story = {
         {
           selector: '.ignore-this'
         }
-      ]
+      ],
+      waitBeforeCapture: 2000,
     }
   }
 }
